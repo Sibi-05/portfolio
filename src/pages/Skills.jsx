@@ -14,7 +14,7 @@ const skills = [
   { icon: <FaHtml5 className="text-orange-600" />, name: "HTML5" },
   { icon: <FaCss3Alt className="text-blue-600" />, name: "CSS3" },
   { icon: <DiJavascript className="text-yellow-400" />, name: "JavaScript" },
-  { icon: <FaPython className="text-blue-800" />, name: "Python" },
+  { icon: <img src="/python.png" alt="Python" className="w-9 h-9" />, name: "Python" },
   { icon: <FaReact className="text-blue-500" />, name: "React.js" },
   { icon: <SiRedux className="text-purple-600" />, name: "Redux" },
   { icon: <FaNode className="text-green-600" />, name: "Node.js" },
