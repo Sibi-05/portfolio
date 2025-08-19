@@ -6,6 +6,13 @@ import { FaMapSigns } from "react-icons/fa";
 
 const experiences = [
   {
+    title: "Undergraduate Student",
+    company: "Sri Krishna Adithya College of Arts and Science",
+    duration: "Aug 2022 – May 2025",
+    description:
+      "B.Sc in Computer Science with a focus on web development and backend technologies. Gained foundational knowledge in programming, algorithms, and software engineering principles.With a CGPA of 8.4",
+  },
+  {
     title: "Full Stack Developer Intern",
     company: "Neuro Nest AI",
     duration: "Apr 2025 – Jul 2025",
@@ -15,9 +22,9 @@ const experiences = [
   {
     title: "Next Journey",
     company: "Open to Opportunities",
-    duration: "Future",
+    duration: "Present",
     description:
-      "Actively looking to bring impact through my growing full-stack skills and passion for AI-driven apps.",
+      "Currently seeking new challenges in web development. Passionate about building innovative solutions and eager to contribute to impactful projects.",
   },
 ];
 
