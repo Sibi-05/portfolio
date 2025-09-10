@@ -1,32 +1,38 @@
 const projects = [
   {
-    title: "E-commerce Website",
+    title: "E-commerce Website 🛒",
     description:
       "A fully responsive e-commerce website with product listings, cart functionality, and smooth user experience.",
     tech: ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB", "Redux"],
     link: "https://main--mr51b1-ecommerce.netlify.app/",
   },
   {
-    title: "Watch Store",
+    title:"Notes Manager 📝",
+    description:"Note Manager, a productivity-focused web app that goes beyond basic note-taking by adding 'Speech-To-Text Support'.",
+    tech:["React","Tailwind CSS"],
+    link:"https://sibi-note-manager.netlify.app/",
+  },
+  {
+    title: "Watch Store ⌚︎",
     description:
       "A stylish online watch store showcasing a variety of premium timepieces with interactive UI.",
     tech: ["React", "Bootstrap"],
     link: "https://dashing-kataifi-04178f.netlify.app/",
   },
   {
-    title: "Music Player",
+    title: "Music Player 🎵",
     description:
       "A lightweight music player app with play, pause, and seek functionality. Clean and minimal interface.",
     tech: ["HTML", "CSS", "JavaScript"],
     link: "https://sibi-05.github.io/MusicPlayer/",
   },
   {
-    title: "Weather App",
+    title: "Weather App 🌦️",
     description:
       "Get real-time weather updates for any city. Features include temperature, weather condition, and location search.",
     tech: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
     link: "https://sibi-05.github.io/weather-app/",
-  },
+  }
 ];
 
 const Projects = () => (
